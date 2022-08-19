@@ -1,0 +1,26 @@
+Package: snoopy
+Architecture: amd64
+Version: 2.5.0~rc1-1~focal
+Priority: optional
+Section: admin
+Maintainer: Bostjan Skufca Jese <bostjan@skufca.si>
+Installed-Size: 127
+Depends: libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+Conflicts: libsnoopy
+Replaces: libsnoopy
+Filename: pool/focal/testing/snoopy_2.5.0~rc1-1~focal_amd64.deb
+Size: 33852
+MD5sum: 2b6a98aa24bf22437c349058853479df
+SHA1: f06b726e71b25cab7bb33a187b5ba2b255e05d98
+SHA256: 58c717bd7b79a9eb90b79e20e02f0d4b2e974006ec0490824af849476c7de2ad
+SHA512: f262bc4302fb31e64093301f2bd7db7990333e1ec8023c5bc952c18576de2c8513ede6455b11bb22988db7a8f9c01f687429cf3a13be4e24768dec27c15e979d
+Homepage: https://github.com/a2o/snoopy
+Description: Snoopy Command Logger is a wrapper around execve() that captures all executed commands by all users and all processes and sends the data to syslog.
+ Snoopy Command Logger is a shared library that interposes itself
+ between dynamic executables and libc's execve() function.
+ Once loaded, programs' calls to execve() are intercepted and logged.
+ System administrators may find Snoopy Command Logger useful in tasks
+ such as system diagnostics, tracking other administrators' actions
+ as well as getting a good 'feel' of what's going on on their system
+ (i.e. what CGI scripts are being launched by Apache).
+
