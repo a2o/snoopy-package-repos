@@ -1,0 +1,11 @@
+etc/snoopy.ini						    snoopy
+lib/x86_64-linux-gnu/libsnoopy.so			    snoopy
+lib/x86_64-linux-gnu/libsnoopy.so.0			    snoopy
+lib/x86_64-linux-gnu/libsnoopy.so.0.0.0			    snoopy
+usr/sbin/snoopyctl					    snoopy
+usr/share/doc/snoopy/README.Debian			    snoopy
+usr/share/doc/snoopy/README.md.gz			    snoopy
+usr/share/doc/snoopy/changelog.Debian.gz		    snoopy
+usr/share/doc/snoopy/changelog.gz			    snoopy
+usr/share/doc/snoopy/copyright				    snoopy
+usr/share/lintian/overrides/snoopy			    snoopy
