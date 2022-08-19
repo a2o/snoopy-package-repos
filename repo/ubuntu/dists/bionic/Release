@@ -1,0 +1,35 @@
+Architectures: amd64
+Codename: bionic
+Components: stable testing
+Date: Fri, 19 Aug 2022 17:36:29 +0000
+Label: Snoopy Command Logger - Upstream APT repository
+Origin: https://a2o.github.io/snoopy-packages/
+Suite: snoopy-upstream
+MD5Sum:
+ c6a88c478ec64cf7d81829658e6a501e              228 Release
+ f79c85c146635286dbf53ecc48877995              455 testing/Contents-amd64
+ f15c1b88b9bcfab5d52ecf2bcd93e766              187 testing/Contents-amd64.gz
+ bdba7920601ff03d51db2c8a9d7bdfc9             1303 testing/binary-amd64/Packages
+ 38d0fd7a77a9a4aa1ac11815cd0d95e3              822 testing/binary-amd64/Packages.gz
+ 614c6a871ed9cc162bc8381e1bcf55e9             1204 testing/binary-amd64/Release
+SHA1:
+ 19341e521586699a8301766bd5569fc43ffe1852              228 Release
+ c72461616a5c5f0e90f5c1db93feffc98eefbff6              455 testing/Contents-amd64
+ b216e9dec4b62a5af5dee5ad786b7ceffed889e2              187 testing/Contents-amd64.gz
+ 45de9520d4deb98c6f5471f46572816988b80cb6             1303 testing/binary-amd64/Packages
+ dad81a19e5c3d100e8d46ca2af8d933a966d30ad              822 testing/binary-amd64/Packages.gz
+ 44d325bfde150bc3105aeace797364d62a53099c             1204 testing/binary-amd64/Release
+SHA256:
+ d6255106c84d43a7babe16ac2adde7ef1e7e73597646ae8b92bb53963eaee8a3              228 Release
+ e6bfb91e6d49d53a82d95ae2da4b62d5462ca1d4a77a2d597f219e305a321c23              455 testing/Contents-amd64
+ 0c84722055c0666587eadb7645b47842641921cb97f54132670b3cbffaae12b0              187 testing/Contents-amd64.gz
+ d3a155d60bcf06aee0ceab0cf6a5fa10c262919c2b89a5fd89475f4e05092d24             1303 testing/binary-amd64/Packages
+ d5418d419338acbc90d22be0d78ee674019f0e52670092375f1211ac7a6cee1e              822 testing/binary-amd64/Packages.gz
+ 754632f1aff5d74f139696976a340e05d29d2d66ccd812762f688eefbd64a49c             1204 testing/binary-amd64/Release
+SHA512:
+ c33b03767642161f941648ed67f7d83fc64a2a79d6bb47ad8e308d40b760149101eafb5de774942b54c321cbef7936651bf228ddd9f91000450a5722bf45311d              228 Release
+ 6d8d1d0146eb2a1c67a7658d83c6c06ede31dbb70156a654b70f7823e7fad86a1e7f76bee520eb304b1ced108cc823593585a287d91bc2a043b026f6523ce8a8              455 testing/Contents-amd64
+ 38091f57b0eb975d9fc1220f8e7b4ff1e5a0ff0740cfc19526d450f15ec3ef2ab4b32eac86d680fe346e77363e496f3f7ea6c4394faf7c06c0d8eef2cbf84020              187 testing/Contents-amd64.gz
+ 18b3d2d2a4996322be14bdb4080c7c10ffe3e8fccfd619cafe4f6404df478817a53965cd5468dc1605a87cd1afc19f1d1617dc9470e27f3afd5affd75c292804             1303 testing/binary-amd64/Packages
+ cb846b32adce3f8b0b7d93c144ad3ed912cbcb3ddb7f6994c6dd0f268a0de03d7dc0ddd0e00ac12f7bee5b3209015850dab86c332022fec4d9bba738f3064c26              822 testing/binary-amd64/Packages.gz
+ dd64a2a66921a982b09cc1ce4fbfa7bcfed3e1e39150b375e46712a7880fae9d356a51976f0c8c067b050f7509c0b27ee0aefaddc9f2528a5cb8a8151cdc0a29             1204 testing/binary-amd64/Release
