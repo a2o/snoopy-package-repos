@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: jammy
+Components: stable testing
+Date: Fri, 19 Aug 2022 17:39:09 +0000
+Label: Snoopy Command Logger - Upstream APT repository
+Origin: https://a2o.github.io/snoopy-packages/
+Suite: snoopy-upstream
+MD5Sum:
+ 3bbec8d82b1cc6b3a45e3d280056926b              227 Release
+ f79c85c146635286dbf53ecc48877995              455 testing/Contents-amd64
+ 301d3fc9447025086ec2ade630d6a8a4              187 testing/Contents-amd64.gz
+ dcfe7b8b0a07736c982e28783e1efe22             1300 testing/binary-amd64/Packages
+ a599311dff56d1c4f32e73fc74c1d2b5              825 testing/binary-amd64/Packages.gz
+ dbc1e019637fdaff38620b644487b467             1204 testing/binary-amd64/Release
+SHA1:
+ 8ed876a60875df36ab168597fc82bbbbdd9871e8              227 Release
+ c72461616a5c5f0e90f5c1db93feffc98eefbff6              455 testing/Contents-amd64
+ acc8450ca7ad6084e742fca3f9171f902ae23652              187 testing/Contents-amd64.gz
+ 308d3cb624c05ed1c8f822c7c8a9dbf26f975cfe             1300 testing/binary-amd64/Packages
+ eff7c6fd1a9e3bee5a349c2f2feffb10e29f2947              825 testing/binary-amd64/Packages.gz
+ 43880da666f0201d067f3508ea45d05dd715ab38             1204 testing/binary-amd64/Release
+SHA256:
+ 554fa4f5b510d0337b633ac9f822018935f9a94acef50a7ee65b4f92fdc3d3bd              227 Release
+ e6bfb91e6d49d53a82d95ae2da4b62d5462ca1d4a77a2d597f219e305a321c23              455 testing/Contents-amd64
+ 2f66eda45cb33f023fb56680b27d0da925ddb67acc56cdeb3b4c7357875a8b6b              187 testing/Contents-amd64.gz
+ b33cde2883b1cc4532071d2141eedcce96b1bc167388ccf6f1270032ef2d6745             1300 testing/binary-amd64/Packages
+ 25eb11989bc25e112aa2517076a8e791d9654df81649246df7aab27e90875fcb              825 testing/binary-amd64/Packages.gz
+ 1191d554bf2cf8ce418ec04d6baee9d078fad65c35c8d1f7706e58b1d0c17e3e             1204 testing/binary-amd64/Release
+SHA512:
+ e51cbdd91c3fd6c65742111b9e1a5f455952cc41966f445b9eaf19125f3f076ae9e1cb8df17cae8d777a336a451c2a2b97aa3e9f39995a173f38127d85addf02              227 Release
+ 6d8d1d0146eb2a1c67a7658d83c6c06ede31dbb70156a654b70f7823e7fad86a1e7f76bee520eb304b1ced108cc823593585a287d91bc2a043b026f6523ce8a8              455 testing/Contents-amd64
+ 7d5b211718b142f26ffe87ec9871a0fa6f85dcf86ab0bb66e9382d6af9c28c87e79233c8c69210b7fd4488e57d5e1cd949c97c1e0c476884fc4319c147cd9e0c              187 testing/Contents-amd64.gz
+ 4121d339302fb27f1938bc604447e65fcfc2a7779cc42e903e2758730ffad24010c090235356b4a15554abd2619e43ad631a536e6364b43814a89b15371542b9             1300 testing/binary-amd64/Packages
+ 2d7df198a6c500f04e68cdd0e17f08bf37b755a55fd8802ada20d7ba22cf362dd056e4c94b7d523af3d8e1ab67e06bb3301ce8788f5339a8efcbd699f9a2d507              825 testing/binary-amd64/Packages.gz
+ 895f7ce5b2b71c58c0ecbf6132e9a2e574161c6b8bd58265abbdc563fc50b284a6493039909d6822900101b41a8d0743d705f84f67cb6827cbdc978b1ebd52bd             1204 testing/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQHTBAEBCgA9FiEE9/1bOTQN1ajyM8KkA4lnqd8eCZ4FAmL/yr0fHHNub29weS1w
+YWNrYWdlc0BhMm8uZ2l0aHViLmNvbQAKCRADiWep3x4JniTvC/0etfIsKY2bh7mp
+WyCLsjZfpE+DwSf8XpuxvHAtFGa0JO1ZkbDeJYsunuLiF6Lbkp0JGoYGnYpb8tTx
+9aCp6dXJj2HxIUw5S0ej7INGjrMU1ZlcVn8rEtE9VlvTu7vkkP3aKMp3mc7GZf69
+rfKeJ0e+kRRfEMC99xXftE4V92Mt+0OyzTsITQ/B0FkHlrmT181S7ikKrVhmMSm8
+6mtVRpRfryEXWV4Z5EHMag55lbQD4SfcecdmI0bU54beRZxJiMSQkUiMrdQO1npl
+bzy8J/rsnFDEhFIQKRoGJkAzT1NoSx3eIMzJKCukCqNh+n+NeOTLLGbIM2Qxd48D
+bq7/359G78tn80OnkE9aqZjRyaC1Kp1bY1IX+RVwv9jdN05onbCtfS/LdgQzt4Hd
+hhIqMZ7ziwg38VjQdVbiKJilFecDTzuOagcs5aRf0bjU8iAt9tyH16BShzjY0Htg
+ABtp3hCa0sWZxcJzlWqP43NSJ7zLkTds3uqbz0XeZYk+r5wLFRQ=
+=0SYi
+-----END PGP SIGNATURE-----
