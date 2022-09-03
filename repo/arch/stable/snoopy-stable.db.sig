@@ -1,0 +1,1 @@
+snoopy-stable.db.tar.zst.sig

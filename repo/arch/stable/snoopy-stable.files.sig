@@ -1,0 +1,1 @@
+snoopy-stable.files.tar.zst.sig
