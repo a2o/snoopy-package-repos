@@ -1,33 +1,53 @@
 Architectures: amd64
 Codename: focal
 Components: stable testing
-Date: Tue, 23 Aug 2022 01:41:35 +0000
+Date: Sat, 03 Sep 2022 23:14:06 +0000
 Label: Snoopy Command Logger - Upstream APT repository
 Origin: https://a2o.github.io/snoopy-packages/
 Suite: snoopy-upstream
 MD5Sum:
- 38b77c0ccf2b8d62c6f5274cdb3f2780              227 Release
+ 7ab0ff36e9a14bce8e8b2b8d19f5cd45              227 Release
+ a0f37ee54210f32a5ab98ff787e9b547              510 stable/Contents-amd64
+ 7145a1ba04e8f8ebb17d8985eac50262              212 stable/Contents-amd64.gz
+ e8d4289133847541ae0d69eea75645e0             1291 stable/binary-amd64/Packages
+ 1c3abca03d51de7d28367003d3e16360              818 stable/binary-amd64/Packages.gz
+ 302710701a9529337161f8b0e7f8097c             1204 stable/binary-amd64/Release
  f79c85c146635286dbf53ecc48877995              455 testing/Contents-amd64
  c4645a2c8b5a6e2f55c831da79a2fd62              187 testing/Contents-amd64.gz
  15965446ec0968cd144d5509512e5877             2600 testing/binary-amd64/Packages
  35a94ebed9f3c1a42864a3dbedf486a8             1027 testing/binary-amd64/Packages.gz
  f129e4a92cde8869c4fb940f8169cb34             1204 testing/binary-amd64/Release
 SHA1:
- 5b0c2b83493a5de610ca51664ea7fbe5564197a1              227 Release
+ f6fe9571f7c88c64b0c32c4d2061b718dbc6d6f0              227 Release
+ bb06c2c8b96fb70e7105fdffd5fc099f5b131055              510 stable/Contents-amd64
+ 6fb3d3d0dcd3988414a05af0553fb015af61abd2              212 stable/Contents-amd64.gz
+ 53a92370a1b63895d3095df55ec4b6c557803901             1291 stable/binary-amd64/Packages
+ 81f58096f70ce6d1d544009b420fb09e6b8ea9d7              818 stable/binary-amd64/Packages.gz
+ bff775793ed3ad668b3430ba473f652c56352520             1204 stable/binary-amd64/Release
  c72461616a5c5f0e90f5c1db93feffc98eefbff6              455 testing/Contents-amd64
  2c3fd98d3a2c9df77febd5ea650ee1fff1c038be              187 testing/Contents-amd64.gz
  8bcd03648fb5044adef4233579ec94c6ca43781c             2600 testing/binary-amd64/Packages
  7af3c7057fbb1b679f650e1db5a78aaf046eb2cb             1027 testing/binary-amd64/Packages.gz
  5b6d691dbf598f0da17cae6e864c42cfb1e048df             1204 testing/binary-amd64/Release
 SHA256:
- ddfcaa38da9608825f139297ba7c2ab1bb73904bc29886828ff8c6536c7a17b6              227 Release
+ 3240e4b2da7f20acc9071fef699c6cbe9ecc8246f5458a0cfe7deb145542ff72              227 Release
+ 89619e152f149f4bd5f38245635c5d6d31ab5118a090f7cb7519c3dc490bcb2e              510 stable/Contents-amd64
+ c56921a2d38e88d6b52f68573236cec5ee73eb7aeb50ce4b84131b4ccf145b04              212 stable/Contents-amd64.gz
+ d8f59d3264811acd5a8e548c07b53888e988990c798565fe43a7b59ad1795490             1291 stable/binary-amd64/Packages
+ b63bf8407cfc01c3dc3dc22d03412355b872f7bf28a91b1ea8e40adabdcb06eb              818 stable/binary-amd64/Packages.gz
+ 6958960250b10737b21915e45cf9f52dfd7b99f4045340b73f3ae3a0751a2793             1204 stable/binary-amd64/Release
  e6bfb91e6d49d53a82d95ae2da4b62d5462ca1d4a77a2d597f219e305a321c23              455 testing/Contents-amd64
  f2f0b48a1fb4bcb6989926a45b702be03d767f551f2c27946eb34f5f0c2736f4              187 testing/Contents-amd64.gz
  44574c26467923bdbdea84e7bf3a404ad12bb98c605a10a22832aa77719550d4             2600 testing/binary-amd64/Packages
  3d752a2b70fc69767c841bc00744663c80673a7128126bdb26018517b262dfcf             1027 testing/binary-amd64/Packages.gz
  539375b93d1dc8df55569d0719a7f0b96c8b49be61a8d8953d401bab7d6c2a4e             1204 testing/binary-amd64/Release
 SHA512:
- e712139b118cf65fbefa74f81664d086de9b8c5b364087de5e2d73bca68ec06df99845881cde8590096f12294ea9992f06e0cff9a3703a4ff5becc1356632d04              227 Release
+ b3b8c2e063d90498e70ae23be6c52be1311e220637bb529e3d1e863dc19b31623be0dee079f71763fe04f6713231afc8ac83961e8017e110323256f334334a52              227 Release
+ e5ffbf7a760566731bd7267b18eb07ba7e9856c2404486889cee6e22f79c98b313a36f1addb44c6a215d53bd83663f81acafeea10044ecbe8b4e8396e37e0902              510 stable/Contents-amd64
+ 363e99dab243f9c4724b944668b9cc3f8572df81217e7fca7b876f29c2b0571b206e8a5f4736dc2e277090f37b84968384fe19eb5f7f8022da2f607c071d4239              212 stable/Contents-amd64.gz
+ 1052c4ada6344873a310c1ed2ad5c12b2b97a8e0e312b4827bef667ef676835287a0bd36fa6813f7b7b750be8325f0c3975514674e72646b6d9f2aab24d7194a             1291 stable/binary-amd64/Packages
+ 6ba775cd44741579f1768cf2091fcada655981456a07c7189b02f223495963c45d11a1db3c35d472e8b610097849b0dff4d42cf46571e14357a18a4e3899b632              818 stable/binary-amd64/Packages.gz
+ 2a1e341e045838ae7c6403c74a8b8e327634f014e009daac806a55a8a1a6c4df7eb3427b37a74336b0d72605266ca064360060129e209a2a6f226392b4f05d71             1204 stable/binary-amd64/Release
  6d8d1d0146eb2a1c67a7658d83c6c06ede31dbb70156a654b70f7823e7fad86a1e7f76bee520eb304b1ced108cc823593585a287d91bc2a043b026f6523ce8a8              455 testing/Contents-amd64
  a779a6bc220ca0b69d56556c170d6a6fac12cd19a0084e135e2f21ed3bda1ef5167fffc86c5d3d79e86637ebfae362068a88b0c12d29e6b2deee5f4d3bc1e8a8              187 testing/Contents-amd64.gz
  151b5a1b1b81c01d8409fda7fe108f6e125c50d03c14df1d57ece87806d1e52878cca388157be73593daa5477fac68e81d93469af58de677c0daa48ba46d8a0b             2600 testing/binary-amd64/Packages
